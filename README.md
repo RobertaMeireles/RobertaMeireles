@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Roberta, a Full Stack student at FLAG and a Software Engineering student at Unigran Europa.
+I'm passionate about learning, and I want to do my best to contribute as a good team player in the
+development of customer projects.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberta-meireles-aa2b5a42/)](https://www.linkedin.com/in/roberta-meireles-aa2b5a42/)
+
+
+
 <!--
 **RobertaMeireles/RobertaMeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
