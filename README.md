@@ -3,6 +3,7 @@
 My name is Roberta, a Software Engineering and a Full Stack student.
 I'm passionate about learning, and I want to do my best to contribute as a good team player in the
 development of customer projects.
+
 Every day I am more in love with IT area.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberta-meireles-aa2b5a42/)](https://www.linkedin.com/in/roberta-meireles-aa2b5a42/)
