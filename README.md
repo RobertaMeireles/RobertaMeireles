@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 My name is Roberta, a Software Engineering and a Full Stack student.
-I'm passionate about learning, and I want to do my best to contribute as a good team player in the
-development of customer projects.
+On Full Stack course I studied HTML, CSS, JavaScript, Angular, MySQL, PHP, Node.js, Express, MongoDB and now I'm learning ReactJS.
+My goal is to start working in a Team with one or more of this tecnologies to focus on it.
+I'm passionate about learning, and I want to do my best to contribute as a good team player in the development of customer projects.
 
-Every day I am more in love with IT area.
+ 🌱 I’m currently learning and every day I am more in love with IT area.
 
+📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberta-meireles-aa2b5a42/)](https://www.linkedin.com/in/roberta-meireles-aa2b5a42/)
 
 
