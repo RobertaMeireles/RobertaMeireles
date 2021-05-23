@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Roberta, Im a Software Engineering and a Full Stack student.
-On Full Stack course I studied HTML, CSS, JavaScript, Angular, MySQL, PHP, Node.js, Express, MongoDB and now I'm learning ReactJS.
+On Full Stack course I studied HTML, CSS, JavaScript, Angular, MySQL, PHP, Node.js, Express, MongoDB and now I'm learning ReactJS and Python/Django.
 My goal is to start working in a Team with one or more of this tecnologies to focus on it.
 I'm passionate about learning, and I want to do my best to contribute as a good team player in the development of customer projects.
 
