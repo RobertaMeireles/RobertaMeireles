@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Roberta, I am a Junior Full Stack and Software Engineering student.
-On Full Stack course I studied HTML, CSS, JavaScript, Angular, MySQL, PHP, Node.js, Express, MongoDB and now I'm learning Laravel.
-Among many technologies, I already worked in projects using: React.js, Python/Django and AWS Gateway.
+On Full Stack course I studied HTML, CSS, JavaScript, Angular, MySQL, PHP, Node.js, Express, MongoDB and now I'm learning themes and plugins development to Wordpress and React Native.
+Among many technologies, I already worked in projects using: React.js, Python/Django, AWS Gateway and Laravel.
 I'm passionate about learning, and I always do my best to contribute as a good team player in the development of customer projects.
 
  🌱 I’m currently learning and every day I am more in love with IT area.
